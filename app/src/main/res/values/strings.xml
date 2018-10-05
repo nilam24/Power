@@ -1,0 +1,28 @@
+<resources>
+
+    <!--loginActivity    -->
+    <string name="app_name">Pamr</string>
+    <string name="text_login">USER LOGIN</string>
+    <string name="button_login">LOGIN</string>
+    <string name="textInput">user name</string>
+    <string name="textInputpas">password</string>
+    <string name="edit_user">user name</string>
+    <string name="edit_pas">password</string>
+
+    <!--Home    -->
+    
+    <string name="label">Power AMR Solutions</string>
+    <string name="userLabel">User Id</string>
+
+    
+
+        <!-- menu-->
+    <string name="back">back</string>
+    
+    <string name="dash">dashboard</string>
+    <string name="energy">Enegry Reporting</string>
+    <string name="powerAnalysis">Power Analysis Report</string>
+    <string name="powerGraphs">Power Graphs</string>
+    <string name="userDetails">User Details</string>
+
+</resources>

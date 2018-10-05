@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/label"
+            android:id="@+id/textviewhome1"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="196dp"
+            android:src="@drawable/introimage"
+            android:id="@+id/img1"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/label"
+            android:id="@+id/textviewhome2"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/label"
+            android:id="@+id/textviewhome3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="196dp"
+            android:src="@drawable/introimage"
+            android:id="@+id/img2"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/label"
+            android:id="@+id/textviewhome4"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/label"
+            android:id="@+id/textviewhome5"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="196dp"
+            android:src="@drawable/introimage"
+            android:id="@+id/img3"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/label"
+            android:id="@+id/textviewhome6"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/label"
+            android:id="@+id/textviewhome7"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="196dp"
+            android:src="@drawable/introimage"
+            android:id="@+id/img4"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/label"
+            android:id="@+id/textviewhome8"/>
+
+
+    </LinearLayout>
+
+
+
+
+
+</ScrollView>
